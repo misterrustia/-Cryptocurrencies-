@@ -9,8 +9,8 @@ mod_18
 ### Create some plots and data tables to present your results.
 
 
-![image 1 ](../images/Screen Shot 2021-03-19 at 10.18.26 AM.png)
+![image 1 ](https://github.com/misterrustia/-Cryptocurrencies-/blob/master/images/Screen%20Shot%202021-03-19%20at%2010.18.26%20AM.png)
 
-![image 2 ](images/Screen Shot 2021-03-19 at 10.19.26 AM.png)
+![image 2 ](https://github.com/misterrustia/-Cryptocurrencies-/blob/master/images/Screen%20Shot%202021-03-19%20at%2010.19.26%20AM.png)
 
-![image 3](/images/Screen Shot 2021-03-19 at 10.19.41 AM.png)
+![image 3](https://github.com/misterrustia/-Cryptocurrencies-/blob/master/images/Screen%20Shot%202021-03-19%20at%2010.19.41%20AM.png)
