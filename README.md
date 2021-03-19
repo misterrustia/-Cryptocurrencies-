@@ -1,5 +1,5 @@
-# -Cryptocurrencies-
-mod_18
+# -Cryptocurrencies Clustering by K-means-
+
 
 ## Objectives:
 
